@@ -1,0 +1,168 @@
+html,body {
+    margin: 0;
+    padding: 0;
+    
+}
+.menu_pic{
+    background:url(2.jpg);
+    opacity: 0.9;
+}
+.menu{
+    background-color: rgb(233, 222, 222);
+    border: 2px solid rgb(206, 209, 1);
+    border-radius: 12px;
+    margin-top: 30px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    font-size: 18px;
+    margin-left: 150px;
+    float: left;
+    width: 400px;
+    padding: 20px;
+}
+.menu_login{
+    color: rgb(14, 37, 241);
+    padding: 20px;
+    display: inline-block;
+    text-decoration: none;
+    font-family:Cursive;
+}
+/*////////////////////////////////////////////////////////////////////*/
+.login_pic{
+    background:url(4.png);
+    opacity: 0.9;
+}
+.login{
+    background-color: rgb(233, 232, 232);
+    border: 2px solid rgb(206, 209, 1);
+    border-radius: 12px;
+    margin-top: 230px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    font-size: 18px;
+    margin-left: 850px;
+    float: left;
+    width: 400px;
+    padding: 20px;
+}
+.login_tr{
+    color: rgb(10, 10, 10);
+    padding: 5px;
+    display: inline-block;
+    text-decoration: none;
+    font-family:Cursive;
+}
+.login_h{
+    color: rgb(10, 10, 10);
+    padding: 5px;
+    display: inline-block;
+    text-decoration: none;
+    font-family:Cursive;
+}
+.button {
+    background-color: #4CAF50; /* Green */
+    border: none;
+    border-radius: 20px;
+    color: rgb(0, 0, 0);
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+  }  
+  /****************************************************************************************/
+  .user_pic{
+    background-color: rgb(94, 207, 245);
+  }
+  .user_menu_topheader{
+    background-color: rgb(14, 14, 14);
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    height: 100px;
+    color: white;
+    padding: 5px;
+    text-align: center;
+    font-family:Cursive;
+  }
+  .user_menu_table{
+    background-color: rgb(233, 232, 232);
+    border: 2px solid rgb(206, 209, 1);
+    border-radius: 12px;
+    margin-top: 20px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    font-size: 18px;
+    margin-left: 450px;
+    float: left;
+    width: 400px;
+    padding: 20px;
+  }
+  .user_menu_but{
+    background-color: #4CAF50; /* Green */
+    border: none;
+    border-radius: 20px;
+    color: rgb(0, 0, 0);
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+
+  }
+  .user_menu_table2{
+    background-color: rgb(233, 232, 232);
+    border: 2px solid rgb(206, 209, 1);
+    border-radius: 12px;
+    margin-top: 20px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    font-size: 18px;
+    margin-left: 300px;
+    float: left;
+    width: 700px;
+    padding: 20px;
+  }
+  .user_menu_table22{
+    background-color: rgb(233, 232, 232);
+    border: 2px solid rgb(206, 209, 1);
+    border-radius: 12px;
+    margin-top: 20px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    font-size: 18px;
+    margin-left: 300px;
+    float: left;
+    width: 700px;
+    padding: 20px;
+  }
+  .user_menu_last{
+    background-color: rgb(10, 10, 10);
+    color: white;
+    padding: 20px;
+    margin-top: 460px;
+    text-align: center;
+    font-family:Cursive;
+}
+
+/*0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000*/
+.login_make{
+    background-color: rgb(233, 232, 232);
+    border: 2px solid rgb(206, 209, 1);
+    border-radius: 12px;
+    margin-top: 10px;
+    margin-bottom: 20px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    font-size: 18px;
+    margin-left: 850px;
+    float: left;
+    width: 400px;
+    padding: 15px;
+}
+/*////////////////////////////////////////////////////////*/
+.admin_menu_last{
+    background-color: rgb(10, 10, 10);
+    color: white;
+    padding: 20px;
+    margin-top: 1200px;
+    text-align: center;
+    font-family:Cursive;
+
+}
